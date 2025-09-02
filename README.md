@@ -36,4 +36,3 @@ Greenest-Guy@kali:~$
 # Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
-- ### [`OverTheWire-Bandit-Walkthrough`](https://github.com/Greenest-Guy/OverTheWire-Bandit-Walkthrough)
