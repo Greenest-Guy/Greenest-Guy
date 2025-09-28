@@ -57,8 +57,13 @@ Greenest-Guy@kali:~$
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Bash Script](https://img.shields.io/badge/bash_script-Beginner-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-# 🏆 Projects & Achievements
+# 🏆 Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
 - ### [`HackornCTF Writeup`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
 - ### [`RSAnalyze`](https://github.com/Greenest-Guy/RSAnalyze)
+
+# 🏆 Competitions
+- ### PicoCTF
+- ### Hackorn 2025 Quals
+- ### ACM Code Jam 2024
