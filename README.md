@@ -60,3 +60,5 @@ Greenest-Guy@kali:~$
 # 🏆 Projects & Achievements
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
+- ### [`HackornCTF Writeup`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
+- ### [`RSAnalyze`](https://github.com/Greenest-Guy/RSAnalyze)
