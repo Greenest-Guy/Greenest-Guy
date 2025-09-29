@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="Profile Banner" src="https://github.com/Greenest-Guy/Greenest-Guy/raw/main/profile_banner.png" />
+<img width="1280" height="640" alt="Profile Banner" src="https://github.com/Greenest-Guy/Greenest-Guy/raw/main/profile_banner.png"/>
 
 ```
 Greenest-Guy@kali:~$ whoami
@@ -57,7 +57,7 @@ Greenest-Guy@kali:~$
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Bash Script](https://img.shields.io/badge/bash_script-Beginner-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
-# 🏆 Top Projects
+# ⭐ Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
 - ### [`HackornCTF Writeup`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
