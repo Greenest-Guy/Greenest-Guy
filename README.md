@@ -49,6 +49,7 @@ Greenest-Guy@kali:~$
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-191970?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-6495ED?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![BurpSuite](https://img.shields.io/badge/BurpSuite-ff4500?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 **Tools & Platforms**
 
