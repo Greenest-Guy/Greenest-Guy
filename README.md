@@ -61,10 +61,8 @@ Greenest-Guy@kali:~$
 # ⭐ Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
-- ### [`HackornCTF Writeup`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
 - ### [`RSAnalyze`](https://github.com/Greenest-Guy/RSAnalyze)
 
-# 🏆 Competitions
-- ### PicoCTF
-- ### Hackorn 2025 Quals
-- ### ACM Code Jam 2024
+# 🏆 CTF Competition Writeups
+- ### [`HackornCTF Writeup`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
+- ### [`CMU Africa picoMini`](https://github.com/Greenest-Guy/CMU-Africa-picoMini-Writeup)
