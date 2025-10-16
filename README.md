@@ -66,4 +66,3 @@ Greenest-Guy@kali:~$
 # 🏆 CTF Competition Writeups
 - ### [`CMU Africa picoMini`](https://github.com/Greenest-Guy/CMU-Africa-picoMini-Writeup)
 - ### [`HackornCTF`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
-=
