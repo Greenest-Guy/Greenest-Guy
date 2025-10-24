@@ -29,6 +29,7 @@ Greenest-Guy@kali:~$ whoami
 - SQL
 - Python Machine Learning
 - CompTIA Security+
+- Rust
 
 Greenest-Guy@kali:~$                                        
 ```
