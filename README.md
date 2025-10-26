@@ -61,6 +61,7 @@ Greenest-Guy@kali:~$
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Greenest-Guy&layout=compact&theme=dark)
 # ⭐ Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
