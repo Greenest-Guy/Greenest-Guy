@@ -12,6 +12,7 @@ Greenest-Guy@kali:~$ whoami
 ---------------------------------------------
 - Cybersecurity
 - Penetration Testing
+- Cryptography
 - Capture the Flag (Cybersecurity Competitions)
 - Artificial Intelligence & Machine Learning
 - Programming
@@ -27,9 +28,9 @@ Greenest-Guy@kali:~$ whoami
                          |___/         |___/
 ----------------------------------------------
 - SQL
+- Rust
 - Python Machine Learning
 - CompTIA Security+
-- Rust
 
 Greenest-Guy@kali:~$                                        
 ```
