@@ -75,3 +75,4 @@ Greenest-Guy@kali:~$
 # 💻 Other Projects
 - ### [`picoCTF Rust fixme Write-ups`](https://github.com/Greenest-Guy/picoCTF-Rust-fixme-writeups)
 - ### [`PGN-Database-Extractor`](https://github.com/Greenest-Guy/PGN-Database-Extractor)
+- ### [`Chess-Surprisal-Calculator`](https://github.com/Greenest-Guy/Chess-Surprisal)
