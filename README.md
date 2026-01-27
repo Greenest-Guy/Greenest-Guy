@@ -63,17 +63,23 @@ Greenest-Guy@kali:~$
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 
-# ⭐ Top Projects
+# :octocat: Repositories
+
+## ⭐ Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`RSAnalyze`](https://github.com/Greenest-Guy/RSAnalyze)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
 
 
-# 🏆 CTF Competition Writeups
+## 🏆 CTF Competition Writeups
 - ### [`CMU Africa picoMini`](https://github.com/Greenest-Guy/CMU-Africa-picoMini-Writeup)
 - ### [`HackornCTF`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
 
-# 💻 Other Projects
+## 💻 Other Projects
 - ### [`picoCTF Rust fixme Write-ups`](https://github.com/Greenest-Guy/picoCTF-Rust-fixme-writeups)
 - ### [`PGN-Database-Extractor`](https://github.com/Greenest-Guy/PGN-Database-Extractor)
 - ### [`Chess-Surprisal-Calculator`](https://github.com/Greenest-Guy/Chess-Surprisal)
+
+# ☎️ Contact
+### Discord - 00ff00guy
+### Email - greenestcaleb at gmail dot com
