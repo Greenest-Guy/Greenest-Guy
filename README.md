@@ -63,6 +63,11 @@ Greenest-Guy@kali:~$
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 
+# 👨‍🔬 Research
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18664813.svg)](https://doi.org/10.5281/zenodo.18664813)
+### Quantifying the Degradation of Human Decision-Making Under Time Pressure Through the Self-Information of Chess
+
+
 # ⭐ Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
 - ### [`RSAnalyze`](https://github.com/Greenest-Guy/RSAnalyze)
