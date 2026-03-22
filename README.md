@@ -64,8 +64,8 @@ Greenest-Guy@kali:~$
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
 
 # 👨‍🔬 Research
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18664813.svg)](https://doi.org/10.5281/zenodo.18664813)
 ### Quantifying the Degradation of Human Decision-Making Under Time Pressure Through the Self-Information of Chess
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18664813.svg)](https://doi.org/10.5281/zenodo.18664813)
 
 
 # ⭐ Top Projects
