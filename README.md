@@ -13,8 +13,9 @@ Greenest-Guy@kali:~$ whoami
 - Cybersecurity
 - Penetration Testing
 - Cryptography
-- Capture the Flag (Cybersecurity Competitions)
-- Artificial Intelligence & Machine Learning
+- Capture the Flags
+- Machine Learning
+- Artificial Intelligence
 - Programming
 - Software Development
 
