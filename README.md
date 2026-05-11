@@ -44,8 +44,6 @@ Greenest-Guy@kali:~$
 ![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cplusplus&logoColor=A8B9CC) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Learning-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-Learning-343434?style=for-the-badge&logo=Rust&logoColor=white)
 
 **Cybersecurity**
@@ -63,7 +61,8 @@ Greenest-Guy@kali:~$
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) 
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
 
 # ⭐ Top Projects
