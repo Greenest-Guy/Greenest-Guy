@@ -28,9 +28,9 @@ Greenest-Guy@kali:~$ whoami
                           __/ |         __/ |
                          |___/         |___/
 ----------------------------------------------
-- SQL
-- Rust
-- Python Machine Learning
+- C++
+- Linear Algebra
+- Machine Learning
 - CompTIA Security+
 
 Greenest-Guy@kali:~$                                        
@@ -41,11 +41,12 @@ Greenest-Guy@kali:~$
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Golang-0A9EDC?style=for-the-badge&logo=Go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Learning-343434?style=for-the-badge&logo=Rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cplusplus&logoColor=A8B9CC) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Learning-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Learning-343434?style=for-the-badge&logo=Rust&logoColor=white)
 
 **Cybersecurity**
 
