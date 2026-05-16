@@ -15,23 +15,7 @@ Greenest-Guy@kali:~$ whoami
 - Cryptography
 - Capture the Flags
 - Machine Learning
-- Artificial Intelligence
 - Programming
-- Software Development
-
-   _____ _             _       _             
-  / ____| |           | |     (_)            
- | (___ | |_ _   _  __| |_   _ _ _ __   __ _ 
-  \___ \| __| | | |/ _` | | | | | '_ \ / _` |
-  ____) | |_| |_| | (_| | |_| | | | | | (_| |
- |_____/ \__|\__,_|\__,_|\__, |_|_| |_|\__, |
-                          __/ |         __/ |
-                         |___/         |___/
-----------------------------------------------
-- C++
-- Linear Algebra
-- Machine Learning
-- CompTIA Security+
 
 Greenest-Guy@kali:~$                                        
 ```
@@ -44,7 +28,6 @@ Greenest-Guy@kali:~$
 ![C++](https://img.shields.io/badge/C++-3670A0?style=for-the-badge&logo=cplusplus&logoColor=A8B9CC) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Learning-343434?style=for-the-badge&logo=Rust&logoColor=white)
 
 **Cybersecurity**
 
