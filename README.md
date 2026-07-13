@@ -48,20 +48,19 @@ Greenest-Guy@kali:~$
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 
+# 🥼 Research
+### Greene, C. J. (2026). Quantifying the Degradation of Human Decision-Making Under Time Pressure Through the Self-Information of Chess. Zenodo. https://doi.org/10.5281/zenodo.18664813
 
 # ⭐ Top Projects
 - ### [`osu-mania-Skin-Merger`](https://github.com/Greenest-Guy/osu-mania-Skin-Merger)
-- ### [`RSAnalyze`](https://github.com/Greenest-Guy/RSAnalyze)
 - ### [`ICMPing`](https://github.com/Greenest-Guy/ICMPing)
 
 
 # 🏆 CTF Competition Writeups
 - ### [`RSA CTF Writeups`](https://github.com/Greenest-Guy/RSA-CTF-Writeups)
 - ### [`CMU Africa picoMini`](https://github.com/Greenest-Guy/CMU-Africa-picoMini-Writeup)
-- ### [`HackornCTF`](https://github.com/Greenest-Guy/HackornCTF-Writeup)
 
 # 💻 Other Projects
-- ### [`picoCTF Rust fixme Write-ups`](https://github.com/Greenest-Guy/picoCTF-Rust-fixme-writeups)
 - ### [`PGN-Database-Extractor`](https://github.com/Greenest-Guy/PGN-Database-Extractor)
 - ### [`Chess-Surprisal-Calculator`](https://github.com/Greenest-Guy/Chess-Surprisal)
 
