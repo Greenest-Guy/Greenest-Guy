@@ -11,11 +11,10 @@ Greenest-Guy@kali:~$ whoami
  |_____|_| |_|\__\___|_|  \___||___/\__|___/                                                                                             
 ---------------------------------------------
 - Cybersecurity
-- Penetration Testing
 - Cryptography
-- Capture the Flags
 - Machine Learning
-- Programming
+- Software Engineering
+- Computational Research
 
 Greenest-Guy@kali:~$                                        
 ```
