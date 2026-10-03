@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="Profile Banner" src="https://github.com/Greenest-Guy/Greenest-Guy/raw/main/profile_banner.png"/>
+<img width="1280" height="640" alt="Profile Banner" src="https://github.com/Greenest-Guy/Greenest-Guy/raw/main/github_banner.png"/>
 
 ```
 Greenest-Guy@kali:~$ whoami
